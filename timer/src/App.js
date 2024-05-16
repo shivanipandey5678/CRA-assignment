@@ -1,7 +1,7 @@
 import {useState,useEffect} from 'react';
 
 
-function Timer(){
+function App(){
   let [count, setCount] = useState(10);
   function scroll(){
         window.addEventListener("scroll",function(){
@@ -127,6 +127,7 @@ In the end, it is the love of a mother that lights the path ahead, guiding us th
   </div>
 );
 }
+export default App;
 
 
 
