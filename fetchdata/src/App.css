@@ -1,0 +1,10 @@
+#seprateDiv{
+          background-color:  rgba(169, 204, 164, 1);
+           color: rgba(64, 64, 64, 1);
+           border: none;
+           padding: 20px;
+           box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+           border-radius: 10px;
+          width: 60%;
+          margin: 10px auto;
+}
